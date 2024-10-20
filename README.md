@@ -27,7 +27,7 @@ To launch the game, follow these steps:
 3. Enjoy playing the game!
 
 ## Screenshots
-![Game Screenshot 1](./assets/img/screenshot1.png)
+![Game Screenshot 1](assets/img/screenshot1.PNG)
 
 ## Technologies Used
 - HTML5
