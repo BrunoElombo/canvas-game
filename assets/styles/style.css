@@ -1,0 +1,17 @@
+#character, #character2, #pause{
+    display: none;
+    filter: drop-shadow(0 0 10px orange);
+}
+
+body{
+    background-color: rgba(0, 0, 0, 0.553); /* Added background color */
+    background-image: url('../img/background.jpg'); /* Separated background image */
+    background-position: center center;
+    background-size: cover;
+    background-blend-mode: overlay; /* This can be removed if not needed */
+}
+
+#canvas{
+    height: "100vh" !important;
+    width: "100vw" !important;
+}
